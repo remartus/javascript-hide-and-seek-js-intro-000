@@ -10,12 +10,6 @@ function nestedTarget(){
 
 //deepestChild() returns the most deeply nested child in #grand-node
 function deepestChild(){
-  const lis = document.getElementById('#grand-node')
-
-  for (let i = 0; i < lis.length(); i++){
-
-  }
-
   return 'boo!'
 }
 
