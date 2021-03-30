@@ -10,7 +10,7 @@ function nestedTarget(){
 
 //deepestChild() returns the most deeply nested child in #grand-node
 function deepestChild(){
-  return lis.querySelectorAll()
+  const lis = document.querySelectorAll()
 }
 
 //increaseRankBy(n) increases ranks in.ranked-list by n
