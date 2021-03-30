@@ -12,7 +12,7 @@ function nestedTarget(){
 function deepestChild(){
   const lis = document
     .getElementById('#grand-node')
-    .querySelectorAll('div')
+    .querySelectorAll('div');
 }
 
 //increaseRankBy(n) increases ranks in.ranked-list by n
