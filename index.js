@@ -15,6 +15,8 @@ function deepestChild(){
   for (let i = 0; i < lis.length(); i++){
 
   }
+
+  return 'boo!'
 }
 
 //increaseRankBy(n) increases ranks in.ranked-list by n
