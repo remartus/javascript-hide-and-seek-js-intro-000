@@ -5,5 +5,10 @@ function getFirstSelector(selector){
 
 //nestedTarget pulls a .target out of #nested
 function nestedTarget(){
+
+}
+
+//deepestChild() returns the most deeply nested child in #grand-node
+function deepestChild(){
   
 }
