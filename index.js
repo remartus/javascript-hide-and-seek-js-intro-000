@@ -10,7 +10,6 @@ function nestedTarget(){
 
 //deepestChild() returns the most deeply nested child in #grand-node
 function deepestChild(){
-  return 'boo!'
 }
 
 //increaseRankBy(n) increases ranks in.ranked-list by n
