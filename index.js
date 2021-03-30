@@ -2,3 +2,5 @@
 function getFirstSelector(selector){
   return document.querySelector(selector)
 }
+
+//nestedTarget pulls a .target out of #nested 
