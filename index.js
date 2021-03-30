@@ -13,7 +13,7 @@ function deepestChild(){
   const lis = document.getElementById('#grand-node')
   const um = document.querySelectorAll('div')
 
-  for (let i = 0; i < lis.length(); i++){
+  for (let i = 0; i < um.length(); i++){
 
   }
 }
